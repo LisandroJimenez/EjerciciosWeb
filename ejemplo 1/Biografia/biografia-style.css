@@ -22,6 +22,19 @@ nav{
     padding-right: 30px;
 }
 
-.rname{
-    display: flex;
+.biografia{
+    font-family: "Pridi", serif;
+}
+
+img{
+    width: 150px;
+    height: auto;
+}
+
+.biografia{
+    padding: 2px,2px,2px,2px;
+}
+
+.educacion{
+    font-family: "Pridi", serif;
 }
