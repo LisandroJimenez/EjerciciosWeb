@@ -48,6 +48,9 @@
                     <img src="./assets/image/Vegetales.jpg" class="d-block w-100" alt="...">
                 </div>
             </div>
+            <div class="shadow-lg p-3 mb-5 bg-body-tertiary rounded d-flex justify-content-center">
+                <h1>Te ofrecemos Varios Productos</h1>
+            </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
@@ -57,6 +60,32 @@
                 <span class="visually-hidden">Next</span>
             </button>
         </div>
+
+        <div class="mx-auto p-5 d-flex  flex-row  ">
+            <div>
+                <div class="card" style="width: 18rem;">
+                    <img src="./assets/image/Carne.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Carnes Frescas</h5>
+                        <p class="card-text">La mejor calidad de carne la puedes encontrar aca</p>
+                    </div>
+                </div>
+            </div>
+            <div class="position-absolute top-50 start-50 translate-middle">
+                <div class="card" style="width: 18rem;">
+                    <img src="./assets/image/Carne.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Carnes Frescas</h5>
+                        <p class="card-text">La mejor calidad de carne la puedes encontrar aca</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     </body>
 </html>
